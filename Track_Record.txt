@@ -1,0 +1,22 @@
+2 Fold CVE for words on SVM - 0.212
+
+2 Fold CVE for image features on SVM - 0.3129
+5 Fold CVE for image features on SVM - 0.3143
+
+2 Fold CVE for words on k means - 0.3570
+
+2 Fold CVE for image features on k means - 0.3435
+
+2 Fold CVE for words on decision trees - 0.2978
+
+2 fold CVE for image features with level 1 on decision trees = 0.3341
+
+2 fold CVE for words with level 1 on decision trees = 0.2953
+
+PCA(25) + SVM for words = 0.4870
+PCA(100) + SVM for words = 0.4170
+PCA(500) + SVM for words = 0.2065
+PCA(700) + SVM for words = 0.2079
+PCA(600) + SVM for words = 0.2027
+
+naive bayes on image features - 0.3297
